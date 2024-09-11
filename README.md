@@ -1,4 +1,4 @@
-# Virtual REality
+# Virtual Reality
 
 ## ERD
 Het ERD moet als bijlage aan het issue ERD worden toegevoegd
