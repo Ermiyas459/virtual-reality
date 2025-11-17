@@ -1,5 +1,11 @@
 # Virtual Reality
 
+## Examen document
+Als je naar de issue lijst kijkt (niet een board), dan zie je ook enkele taken. Daarin staan documenten die als naslag of als sjabloon gebruikt kunnen worden.
+
+## Issue boards
+Er zijn twee issue boards in dit project. Een voor de student en een voor de PO. Je mag in beide kijken, maar alleen in die van de student wijzigen.
+
 ## Issues
 Gebruik het "Issue sjabloon" om de issues aan te maken die beschrijven hoe de applicatie moet gaan werken. Gebruik hiervoor user-stories. Houd er bij het schrijven rekening mee, dat het duidelijk moet zijn voor iemand anders. Het zou zo moeten zijn, dat als jij het ontwerp maakt (alle issues beschrijft), dat een andere programmeur het zou moeten kunnen maken.
 
